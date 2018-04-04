@@ -26,8 +26,8 @@ public class example_script : MonoBehaviour {
 		else
 			height = width;
 
-		left = Screen.width/4 - width/3;
-		top = Screen.height/4 - height/3;
+		left = Screen.width/5 - width/3;
+		top = Screen.height/5 - height/3;
 		
 		GUI.DrawTexture(new Rect(left, top, width, height), aTexture);
     }
