@@ -15,6 +15,9 @@ public class example_script : MonoBehaviour {
             return;
         }
 #endif
+
+		Debug.Log("This is a debug log message!");
+
 		// Draws a single image in a square the size of the screen
 		int width = Screen.width;
 		int height = Screen.height;
