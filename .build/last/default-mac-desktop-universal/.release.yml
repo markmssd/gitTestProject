@@ -1,0 +1,28 @@
+---
+platform: standaloneosx
+success: true
+archives:
+- key: build_reports
+  name: Build Reports
+  path: extra_data/build_report/*
+  path_replace: extra_data/build_report/
+  public: false
+  show_download: false
+- key: perf_upload_log
+  name: Perf Upload Log
+  path: "/Users/brettkercher/Library/Logs/Unity/symbol_upload.log"
+  path_replace: "~/Library/Logs/Unity/"
+  use_absolute_paths: true
+  public: false
+  show_download: false
+- key: primary
+  name: ".ZIP file"
+  path: "**/*"
+  path_exclude:
+  - extra_data/**/*
+  - build_stats.json
+  public: false
+  primary: true
+  show_download: true
+  zip: true
+  zip_filename: Default Mac desktop Universal.zip

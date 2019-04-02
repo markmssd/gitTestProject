@@ -1,0 +1,24 @@
+{
+  "buildTool": "bvr",
+  "buildToolVersion": "3.0.26",
+  "buildPack": "Unity",
+  "workspaceSize": 188885037,
+  "artifactsSize": 34061896,
+  "buildStartTime": "2019-04-02 15:54:36 UTC",
+  "buildTimeInSeconds": 124.711472,
+  "buildGUID": "bd14b4403c68548c7863cf0650de22a3",
+  "summary": {
+    "buildStartedAt": "4/2/2019 3:55:29 PM",
+    "buildEndedAt": "4/2/2019 3:56:06 PM",
+    "guid": "bd14b4403c68548c7863cf0650de22a3",
+    "options": "None",
+    "outputPath": "/Users/brettkercher/Documents/UnityProjects/gitTestProject/temp.XXXXXX20190402-58649-1dpui1p/Default Android.apk",
+    "platform": "Android",
+    "platformGroup": "Android",
+    "result": "Succeeded",
+    "totalErrors": "0",
+    "totalSize": "123363378",
+    "totalTime": "00:00:36.5634701",
+    "totalWarnings": "4"
+  }
+}
