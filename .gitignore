@@ -14,4 +14,11 @@ Temp
 *.pidb
 *.sln
 *.userprefs
+obj
+Logs
 
+
+# Cloud Build Local Build Artifacts
+build_manifest.json
+build.json
+.build
