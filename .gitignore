@@ -23,3 +23,7 @@ Assets/Plugins/Editor/JetBrains/
 build_manifest.json
 build.json
 .build
+Assets/__UnityCloud__.meta
+Assets/__UnityCloud__/
+*.rsp
+*.rsp.meta
