@@ -18,8 +18,10 @@ Temp
 obj
 Logs
 Assets/Plugins/Editor/JetBrains/
+# Addressables output path
+ServerData/
 
-# Cloud Build Local Build Artifacts
+# Cloud Build
 build_manifest.json
 build.json
 .build
@@ -27,3 +29,4 @@ Assets/__UnityCloud__.meta
 Assets/__UnityCloud__/
 *.rsp
 *.rsp.meta
+bvr/
