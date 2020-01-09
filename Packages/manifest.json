@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.addressables": "ssh://git@github.com/BrettKercher/addressables.git",
+    "com.unity.addressables": "1.5.0",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
     "com.unity.collab-proxy": "1.2.15",
@@ -37,11 +37,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "com.unity.addressables": {
-      "hash": "c11dbffd901bc9c82cba0c20258b17e9b81ec7c3",
-      "revision": "HEAD"
-    }
   }
 }
