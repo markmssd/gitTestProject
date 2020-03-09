@@ -16,3 +16,4 @@ public class SimpleMove : MonoBehaviour
         Controller.SimpleMove(new Vector3(h * Speed, 0, v * Speed));
     }
 }
+//comment
