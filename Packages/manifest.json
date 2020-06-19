@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.brett.test": "ssh://git@github.com/markmssd/TestPackage.git",
+    "com.brett.test": "https://github.com/markmssd/TestPackage.git",
     "com.unity.addressables": "1.5.1",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
